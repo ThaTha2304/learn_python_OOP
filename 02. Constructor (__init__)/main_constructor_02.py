@@ -1,5 +1,5 @@
 '''
-    Module berisi pengenalan OOP
+    Module berisi pengenalan Consturctor (__init__)
 '''
 
 # Pembuatan class dengan nama "Test" --> coba constructor
